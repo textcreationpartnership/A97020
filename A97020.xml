@@ -1,0 +1,403 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christian reconcilement or God at peace with man in Christ, delivered in a sermon at St Mary's in Oxford. / By John Wall, Dr in divinity and præbendary of Christ-Church in Oxford.</title>
+            <author>Wall, John, 1588-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97020</idno>
+            <idno type="STC">Wing W467</idno>
+            <idno type="STC">Thomason E2120_2</idno>
+            <idno type="STC">ESTC R210151</idno>
+            <idno type="EEBO-CITATION">99868976</idno>
+            <idno type="PROQUEST">99868976</idno>
+            <idno type="VID">121334</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121334)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 242:E2120[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christian reconcilement or God at peace with man in Christ, delivered in a sermon at St Mary's in Oxford. / By John Wall, Dr in divinity and præbendary of Christ-Church in Oxford.</title>
+                  <author>Wall, John, 1588-1666.</author>
+               </titleStmt>
+               <extent>[8], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall, for R. Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Knowableness --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121334:1" rendition="simple:additions"/>
+            <p>
+               <hi>Chriſtian Reconcilement,</hi> OR GOD AT PEACE with MAN IN CHRIST, <hi>Delivered in a Sermon at</hi> St Mary's <hi>in</hi> Oxford.</p>
+            <p>By JOHN WALL D<hi rend="sup">r</hi> in Divinity, and PRAEBENDARY Of CHRIST<g ref="char:EOLhyphen"/>CHURCH in OXFORD.</p>
+            <p>Pſalm. 37. 4. <hi>Delight thou in the Lord, and he ſhall give thee thy hearts deſire.</hi>
+            </p>
+            <p>OXFORD, Printed by <hi>H. Hall,</hi> for <hi>R. Davis.</hi> 1658.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:121334:2"/>
+            <pb facs="tcp:121334:2"/>
+            <head>To the Honourable, and tru<g ref="char:EOLhyphen"/>ly noble Lady, the Lady <hi>SARAH HOGHTON,</hi> Wife to <hi>S<hi rend="sup">r</hi> RICHARD HOGHTON Knight,</hi> and Daughter of <hi>PHILIP,</hi> Lord <hi>STANHOPE,</hi> late Earle of <hi>CHESTER-FIELD;</hi> Grace and Peace be daily multiplied.</head>
+            <opener>
+               <salute>Noble MADAM,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Ardon my Confi<g ref="char:EOLhyphen"/>dence that I make uſe of your Name, and place ſo rare a Frontiſpice before ſo meane a Piece. My deſire hath been to</hi>
+               <pb facs="tcp:121334:3"/> 
+               <hi>honour your Lady-ſhip ſome kind of way for thoſe many fa<g ref="char:EOLhyphen"/>vours derived to me, not only from the Root and Stemm, but alſo from the ſeverall branches of that your noble Generation and Parentage. Yet in this, I muſt needs Confeſſe I honour my ſelfe, while the eminency of your graces caſts a luſtre upon my Services; and the high e<g ref="char:EOLhyphen"/>ſteem of thoſe magnetique vir<g ref="char:EOLhyphen"/>tues draws greater acceptance to theſe endeavours. Howe<g ref="char:EOLhyphen"/>ver, be pleaſed to receive this manuall, &amp; give it ſome place</hi>
+               <pb facs="tcp:121334:3"/> 
+               <hi>in your Cloſet among the Saints of God departed this life, with whom you have beene uſed to Converſe frequently in their writings. It will not take up much roome, and though it Containe little that you may learne, yet doth it ſomewhat that you may reme<g ref="char:cmbAbbrStroke">̄</g>ber, the in<g ref="char:EOLhyphen"/>co<g ref="char:cmbAbbrStroke">̄</g>parable bleſſing of Chriſtian atonement, which is the very foundation of all our Comfort. This I Commend to your pious thoughts, and the religious ex<g ref="char:EOLhyphen"/>erciſe of your diviner Medi<g ref="char:EOLhyphen"/>tations: that you may</hi> joy in
+<pb facs="tcp:121334:4"/> God, <hi>and be ſtrengthened daily in the Spirituall <g ref="char:V">Ʋ</g>nion which you have with him in Chriſt Jeſus. For I well know when the Scriptur's were a delight unto you, and you had (as Saint</hi> Ierome <hi>wri<g ref="char:EOLhyphen"/>teth) of</hi> Marcella, <hi>a Roman Lady</hi> (ardorem incredibi<g ref="char:EOLhyphen"/>lem &amp;c:) an incredible deſire <hi>to read &amp; underſtand, the pretious Myſteries of thoſe ſaving Oracles;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(in the words of the Apoſtle) from a Child: wherein I have late evidence, that you perſe<g ref="char:EOLhyphen"/>vere
+<pb facs="tcp:121334:4"/> Conſtantly, to the honour of God, and the rejoycing of your Spirit, with the Continu<g ref="char:EOLhyphen"/>all feaſt of a Good Conſcience. Sure I am, it was the practiſe of that Honorable Lady your dear Mother, now with God bleſſed for ever: whoſe Good<g ref="char:EOLhyphen"/>neſſe like an Oyntment poured out, left a Sweet Savour in the parts where ſhe lived round a<g ref="char:EOLhyphen"/>bout: whoſe paths you tread, and ſeeme to enlarge, or make plaine, in a Pious aemulation, and zealous Imitation of Her choiceſt Graces. But I will not</hi>
+               <pb facs="tcp:121334:5"/> 
+               <hi>make an Elogie of an Epiſtle, or a Panegyrick of a preſent<g ref="char:EOLhyphen"/>ment: (though you well de<g ref="char:EOLhyphen"/>ſerve it) leaſt I ſeeme to dipp my Pen in Oyle, and mingle Hony with my Oblation: Con<g ref="char:EOLhyphen"/>trary to the direction given to</hi> Moſes <hi>by God himſelfe in thoſe Leviticall inſtructions. The Lord poure a bleſſing up<g ref="char:EOLhyphen"/>on you all, from the top, and head, to the ſeverall branches of your Noble Family. Ireſt,</hi>
+            </p>
+            <closer>
+               <salute>MADAM,</salute> 
+               <signed>Your moſt Humble Ser<g ref="char:EOLhyphen"/>vant in him that took upon him the forme of a Servant, our Lord Jeſus Chriſt, JOHN WALL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:121334:5"/>
+            <head>CHRISTIAN RECON<g ref="char:EOLhyphen"/>CILEMENT.</head>
+            <epigraph>
+               <bibl>Rom. 5. 11.</bibl>
+               <q>Wee joy in God through our Lord Jeſus Chriſt, by whom wee have now re<g ref="char:EOLhyphen"/>ceived the atonement.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>HEN S<hi rend="sup">t</hi>. Paul wrote to the Saints at Rome, there was a ball of contention (as t'were) throwen be<g ref="char:EOLhyphen"/>twixt the Iewe and the Gentile. And howſoever they were converted as true proſelytes to the Do<g ref="char:EOLhyphen"/>ctrine of Chriſt, yet did they burne with jealouſy one towards another, and re<g ref="char:EOLhyphen"/>ceive the goſpell with ſtrife and envy, and ſharpe conteſts of mutuall re<g ref="char:EOLhyphen"/>proach, and fervent emulation (a fault
+<pb n="2" facs="tcp:121334:6"/> to much uſed in theſe our Dayes, both in the expreſſions and impreſſions of many Chriſtians, though interdicted by S<hi rend="sup">t</hi>. Paul to the Epheſians, and condem<g ref="char:EOLhyphen"/>ned by S<hi rend="sup">t</hi>. James in the very brethren, with a note and character of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which is meer <hi>bitterneſſe,</hi> the gaul and wormewood of crabbed Zeale and corrupt affections.) The Iew boaſted of his ſtock, the Gentile of his Wiſedome, the Iew of his privi<g ref="char:EOLhyphen"/>ledges, the Gentile of his Endowments; the Iew deſpiſed the Gentile as a wild olive, the Gentile deſpiſed the Iew as a withered branch cut off from the right olive; the Iew deſpiſed the Gentile as a ſtranger from the Covenant, the Gen<g ref="char:EOLhyphen"/>tile deſpiſed the Iew as one deſpiſed of God and rejected of him for murdering his only Son, and crucifying the Lord of glory.</p>
+            <p>But as it is ſaid of Neſtor, an antient Counſellor of the Grecians.
+<q>
+                  <l>—<hi>Neſtor Componere lites</hi>
+                  </l>
+                  <l>
+                     <hi>Inter Peliden feſtinat &amp; inter Atri<g ref="char:EOLhyphen"/>den;</hi>
+                  </l>
+               </q>
+            </p>
+            <pb n="3" facs="tcp:121334:6"/>
+            <p>So doth the Apoſtle uſe all diligence, to repreſſe the animoſity of their carnall ſpirits, and to reduce both to love and unity, patience and humility, ſhewing plainly that all were debters unto God, and that none had cauſe to boaſt of themſelves, firſt by reaſon of their naturall condition they were ſub<g ref="char:EOLhyphen"/>ject unto wrath; then by reaſon of their ſpirituall renovation they were juſtified by faith, not of merit but of grace, free grace, rich grace, the grace of God through faith in Chriſt Jeſus. All which is copiouſly delivered in the pre<g ref="char:EOLhyphen"/>cedent Chapters, and compendiouſly gathered in the latter verſes, whereof my Text is a briefe Synopſis</p>
+            <q>Wee joy in God through our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, by whom wee have now received the atonement.</q>
+            <p>Wee joy in tribulation, becauſe it tends unto hope: wee joy in hope becauſe it ends in glory, as the pre<g ref="char:EOLhyphen"/>cedent Words doe rightly inſinuate.
+<pb n="4" facs="tcp:121334:7"/> But the top of our joy and the crown of our rejoycing is God alone, pacified by his Sonne in the wood of his Croſſe, the blood of his Croſſe: who indeed is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as Theophylact ſpeakes) the author of joy, the author of reſt, the author of glory, the author of righteouſneſſe. Have our conflicts abounded, and have not our Comforts abounded? Have our tryals abounded, and have not our triumphs abounded? Yea doubtleſſe, as the ſufferings of Chriſt abound in us, ſo doth our conſolation abound through Chriſt Jeſus. And wee never had more Cauſe to rejoyce, than now wee have in the Day of our peace, the bleſſed re-union of God with us, the heavenly redintegration of his infinite love and mercifull Kindneſſe.</p>
+            <q>Wee joy in God through our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, by whom wee have now received the atonement.</q>
+            <p>Theſe words are exceeding jubi<g ref="char:EOLhyphen"/>lar, and not unſuitable with the preſent
+<pb n="5" facs="tcp:121334:7"/> time, which is <hi>dies palmarum,</hi> or (as wee terme it) <hi>Palme-Sunday,</hi> a Day of ſpreading garments, unfolding graces, diſcovering holyneſſe, ſinging praiſes, and crying <hi>Hoſanna in the higheſt, bleſ<g ref="char:EOLhyphen"/>ſed is hee that cometh in the name of the Lord, Hoſanna in the higheſt:</hi> not with green bowes of Pagan wildneſſe, but with palme branches of faith and god<g ref="char:EOLhyphen"/>lyneſſe: which S<hi rend="sup">t</hi>. John will have to be moſt flouriſhing and victorious, with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>this is the victory which overcometh the World, even your faith,</hi> the 5th and the 4th of his 1. Ep. You may compare them to the Song of Mary, when ſhe cryed, <hi>My Soul doth magnify the Lord, and my ſpirit hath rejoyced in God my Saviour.</hi> There ſeemes at once, to bee <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, on the Lords part <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, on our part <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: on the Lords part grace, on our part glory, on the Lords part goodneſſe, on our part gladneſſe, with a ſober kind of raviſhment and ſpirituall Extaſy.</p>
+            <q>Wee joy in God through our Lord Je<g ref="char:EOLhyphen"/>ſus
+<pb n="6" facs="tcp:121334:8"/> Chriſt, by whom wee have now received the atonement.</q>
+            <p>1. That which I ſhall firſt obſerve is the grace and benefit of humane recon<g ref="char:EOLhyphen"/>cilement. <hi>[Wee have received the ato<g ref="char:EOLhyphen"/>nement.]</hi>
+            </p>
+            <p>Secondly the meanes or conveyance, and that is <hi>[our Lord Jeſus Chriſt:]</hi>
+            </p>
+            <p>Laſt of all the reſult or extraction, which is delight and glory, exultation and jucundity, together with the cir<g ref="char:EOLhyphen"/>cumſtance of time, or rather indeed the inſtance of time, not future but pre<g ref="char:EOLhyphen"/>ſent, not in expectation but fruition, <hi>now</hi> wee are reconciled, and <hi>now</hi> wee are comforted, ſince the death of Chriſt and the power of his riſing:</p>
+            <q>Wee joy in God, through our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, by whom wee have now received the atonement.</q>
+            <p>All theſe have their implicite <hi>theſes,</hi> and may be eaſily reſolved into enun<g ref="char:EOLhyphen"/>tiative poſitions, one, <hi>That man is re<g ref="char:EOLhyphen"/>conciled unto God.</hi>
+            </p>
+            <p>Another: <hi>Chriſt is the author of this reconcilement.</hi>
+            </p>
+            <pb n="7" facs="tcp:121334:8"/>
+            <p>A third, <hi>Wee ought to joy in God alone, through Chriſt our Mediator and Advocate.</hi> But I proceed after the me<g ref="char:EOLhyphen"/>thod I have delivered, and ſhall begin with my firſt obſervation, which is <hi>the grace and benefit of humane reconci<g ref="char:EOLhyphen"/>lement, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, wee have received the atonement.</hi>
+            </p>
+            <p>Man is an empty thing, and hath nought in himſelfe, but what he doth receive, <hi>nec quid, nec quale, nec quan<g ref="char:EOLhyphen"/>tum,</hi> as the Logicians ſpeak of their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or rather indeed like that an<g ref="char:EOLhyphen"/>tient chaos which Moſes would have to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the firſt of Ge<g ref="char:EOLhyphen"/>neſis, without forme and beauty, a meer ſolitude and vacuity, in ſo much that a Heathen could ſay, as well in re<g ref="char:EOLhyphen"/>ſpect of men as of their actions. <hi>O Cu<g ref="char:EOLhyphen"/>ras hominum, &amp; quantum eſt in rebus inane?</hi>
+            </p>
+            <p>S<hi rend="sup">t</hi>. John tells us, <hi>wee have received</hi> Grace for grace, or grace upon grace: one grace brings in another; and one grace brings in another; and one grace drawes in another, neither is it mans wiſedome, but Gods bounty that
+<pb n="8" facs="tcp:121334:9"/> leadeth to repentance, charity, meeke<g ref="char:EOLhyphen"/>neſſe, humility and whatſoever is praiſe worthy; moſt agreable to that of Bernard, <hi>Quaevis ſcintillula in corde accenſa, &amp;c.</hi> The leaſt ſparke of holy fire, kindled in the breaſt of any Crea<g ref="char:EOLhyphen"/>ture muſt needs ariſe from the love of God, and the infinite grace of his eternall providence. Wee receive life in our creation, ſtrength in our being, knowledge in ſtudy, comfort in mi<g ref="char:EOLhyphen"/>ſery, patience in trouble, help in adver<g ref="char:EOLhyphen"/>ſity, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ſame hand that framed us muſt preſerve us, neither can wee any more releive our ſelves, then wee could at firſt make our ſelves, as Juſtin Martyr has obſerved in his Apology for Chriſtians. Formati<g ref="char:EOLhyphen"/>on, conſervation, reformation, conſum<g ref="char:EOLhyphen"/>mation are glorious acts but from the Lord, as fruits of the divine goodneſſe; not branches of humane impotence, which the Apoſtle has compriſed in a word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Our ſufficiency is from God,</hi> in the 2<hi rend="sup">d</hi> to the Corin<g ref="char:EOLhyphen"/>thians.</p>
+            <pb n="9" facs="tcp:121334:9"/>
+            <p>But among all the favours that have been beſtowed upon us, that of re<g ref="char:EOLhyphen"/>concilement is moſt pretious, whereby wee are made friends unto God, ſtron<g ref="char:EOLhyphen"/>ger then our enemyes, Lords over the Creature, and aequall with the An<g ref="char:EOLhyphen"/>gells, that warte on his throne, ſtand in his preſence, delight in his worſhip, and rejoyce to doe him ſervice.</p>
+            <p>S<hi rend="sup">t</hi>. Origen is ſo charitable, as to extend his mercy to the Divells, and would have them to be ſaved after a thouſand Years compleatly ended: howbeit, we know the worme dyeth not, and their fire never goeth out, as wee gather from the words of our Sa<g ref="char:EOLhyphen"/>viour, in that finall doome, and fatall ſentence, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>depart from mee, yee curſed into everlaſt<g ref="char:EOLhyphen"/>ing fire, provided for the Divell and his Angels,</hi> Mat. 25. 48.</p>
+            <p>As for the hoſt of bleſſed Angels, that kept their ſtation; they are not ſaid to be truly reconciled, becauſe they never departed from their obe<g ref="char:EOLhyphen"/>dience: yet are they confirmed by the
+<pb n="10" facs="tcp:121334:10"/> mediation of Chriſt, and ſeem to have a two fold advancement: one in reſ<g ref="char:EOLhyphen"/>pect of their knowledge, becauſe they look into the myſtery of our ſalvation: another in reſpect of their joy, becauſe they delight in the worke of our Con<g ref="char:EOLhyphen"/>verſion. That which makes the Scruple touching their reconcilement, is taken from S<hi rend="sup">t</hi> Paul, in the I<hi rend="sup">ſt</hi> Chapt. of his Ep: to the Coloſſians, where he notes of Chriſt, that <hi>he ſate at peace with the blood of his Croſſe,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>things on Earth and things on Heaven.</hi> All which is moſt unqueſtionable, &amp; ought to be under<g ref="char:EOLhyphen"/>ſtood of the holy Angells, not in re<g ref="char:EOLhyphen"/>lation to God, but in relation to man; not as they are reconciled unto him, but as they are reconciled unto us, and united more firmely with us under one head which is Chriſt Jeſus. And there<g ref="char:EOLhyphen"/>fore; if you conſider the words of the Text, it is not ſaid, <hi>they but we,</hi> not <hi>all</hi> but <hi>ſome, We</hi> the <hi>Saints</hi> of God, <hi>wee</hi> the <hi>Sonns</hi> of God.
+<q>
+                  <l>—<hi>Queis meliore luto finxit praecordia Titan.</hi>
+                  </l>
+               </q>
+            </p>
+            <pb n="11" facs="tcp:121334:10"/>
+            <p>Choſen freely, drawen ſweetly, renewed by his word, quickned by his Spirit: <hi>WEE</hi> have received the grace of divine love, and heavenly atonement,</p>
+            <p>Before the Apoſtacy of our father Adam, there was a ſweet harmony be<g ref="char:EOLhyphen"/>twixt God and man, but as ſoon, as hee fell, and had tranſgreſſed, he ran away, and was caſt forth of Paradiſe; at what time there was a breach made, and wee became (as the Apoſtle no<g ref="char:EOLhyphen"/>tes) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: not only ſtrangers and aliens but foes &amp; enemies to the Lord of glory; ſuch as deſpiſe his grace, and deſpight his goodneſſe, with the infinite provocations of enormous impieties. <hi>We</hi> grieve him and hee forſakes us: <hi>We</hi> reſiſt him &amp; hee aband<g ref="char:EOLhyphen"/>ons us from the brightneſſe of his face, and the glory of his preſence. For Sin is abominable to God, neither can his pure eyes endure to behold the filthi<g ref="char:EOLhyphen"/>neſſe of our Corruptions, whereupon ſaith Iſaiah, <hi>Your iniquities have ſepa<g ref="char:EOLhyphen"/>rated betwixt God and you.</hi> Hee did ſo love us, that nothing could take him
+<pb n="12" facs="tcp:121334:11"/> of and make him leave us but our ſins: Hee did ſo hate Sinne, that nothing could bring him on, and make him love us againe but his Son: his dear Sonne, his only Sonne, the death of his Sonne, the oblation of his Sonne, who gave himſelfe for us an offering and a ſacrifice unto God, of a ſweet ſmell and pleaſant odour <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Your ini<g ref="char:EOLhyphen"/>quities have made a ſeparation betwixt God and you in</hi> the 59<hi rend="sup">th</hi> of his prophecy.</p>
+            <p>It was for ſinne, that hee left Iſrael, and it was for ſin that he caſt the An<g ref="char:EOLhyphen"/>gells down from Heaven: It was for ſinne that he drowned the old World, and it was for ſinne, that hee deſtroyed the workes of his creation: Though at firſt hee took pleaſure in them, and ſaid of every thing (which hee made,) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> it <hi>was good, very good</hi> the firſt and the laſt of Geneſis.</p>
+            <p>This was our Condition in the ſad times of humane defection, and thus wee ſtood at a <hi>diſtance,</hi> I will not ſay a <hi>defiance</hi> with the Lord of hoſts and the God of ſpirits. But ſince the parti<g ref="char:EOLhyphen"/>tion
+<pb n="13" facs="tcp:121334:11"/> wall is broken down, and there is an entrance made into the holy place; wee have obtained mercy and are re<g ref="char:EOLhyphen"/>ceived into favour. The heat is of, the fire is quencht, wrath is alaid, the ſtrife is ended: and he that was moſt wrong'd, is moſt deſirous to bee reconciled. Whilſt the Angels of God are made the Embaſſadors of peace, and do openly proclaime tidings of good will unto men upon earth. As James ſaid of Abraham, that hee was termed the friend of God, ſo wee may ſay of all beleivers, the Sonns of Abraham, the generations of his Children. They are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>lovers of God</hi> and <hi>be<g ref="char:EOLhyphen"/>loved of him.</hi> God is their freind, and they are Gods freinds, by the new Co<g ref="char:EOLhyphen"/>venant of eternall righteousneſſe, in the diſpenſation of Chriſt, and merit of his obedience. For, as when two men fall out, a third coming between, makes them freinds and brings them to an a<g ref="char:EOLhyphen"/>micable condition: ſo Chriſt being in the nature of God and man, hath unit<g ref="char:EOLhyphen"/>ed both and made them one, as well in
+<pb n="14" facs="tcp:121334:12"/> love as in perſon, by the ſweet in<g ref="char:EOLhyphen"/>terpoſition of his mediatory fun<g ref="char:EOLhyphen"/>ction.</p>
+            <p>If any ſhall deſire to be further ſa<g ref="char:EOLhyphen"/>tisfyed concerning the nature of this atonement and ſhall ſay to me of this ſpirituall Manna, as the Iſraelites did of their corporall Manna, which fell in the Wilderneſſe, full of pleaſure and dele<g ref="char:EOLhyphen"/>ctable ſweetneſſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>What is this? or how doe you Conceive it to be underſtood?</hi> Wee are ready to pronounce with lear<g ref="char:EOLhyphen"/>ned Zanchius, that it is <hi>renovatio,</hi> &amp;c. a reinveſting of man with priſtine holy<g ref="char:EOLhyphen"/>neſſe, or a reducing of man to that former intereſt wee had with God in Chriſt Jeſus, from the ſtate of wrath to the ſtate of peace, from the ſtate of bondage to the ſtate of liberty, from the ſtate of fear to the ſtate of aſſurance, from the ſtate of miſery to the ſtate of mercy, that we may draw neer with boldneſſe to that heavenly throne, and having received that ſpirit of adop<g ref="char:EOLhyphen"/>tion, <hi>cry Abba, father,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Rom. 8. as <hi>Sonnes</hi> and <hi>heirs, heirs of</hi>
+               <pb n="15" facs="tcp:121334:12"/> 
+               <hi>God</hi> and <hi>coheires with Chriſt,</hi> in the ſweet fruition of an everlaſting King<g ref="char:EOLhyphen"/>dome. The diſlike and antipathy, the variance and the enmitie which tranſ<g ref="char:EOLhyphen"/>greſſion wrought, being quite aboli<g ref="char:EOLhyphen"/>ſhed and obliterated by the precious blood of that paſchall Lambe, ſprink<g ref="char:EOLhyphen"/>led upon the door poſts of our hearts and conſciences. For to ſpeake in the Words of Salvian, <hi>Crimen noſtrum diſcrimen graviſsimum,</hi> Our greateſt danger is from ſin. That being clean<g ref="char:EOLhyphen"/>ſed, wee are preſerved, nor only ſo, but graced and honoured, embraced and dignify'd with ſignal ornaments of love and kindneſſe, by ring and by robe, as they are diſtinctly mentioned by S<hi rend="sup">t</hi> Luke the Evangeliſt, in that comfort<g ref="char:EOLhyphen"/>able ſtory of the prodigalls Conver<g ref="char:EOLhyphen"/>ſion. Hence it is the Apoſtle doth ſo much boaſt of a holy Communion which the ſaints have with the Father and the Son, <hi>Our fellowſhip,</hi> ſaith he, and that with an Emphaſis, truely, <hi>Our fellowſhip is with the Father and the Son,</hi> in the 1<hi rend="sup">ſt</hi> and 3<hi rend="sup">d</hi> of his Firſt Epiſt.
+<pb n="16" facs="tcp:121334:13"/> That as he is one with the Father, ſo wee may be one with him, of one heart, of one mind, of one deſire, of one judg<g ref="char:EOLhyphen"/>ment, of one building, one Temple, one body, one ſpirit, which indeed is the height of comfort, and doth moſt eminently repreſent the wonderfull excellency of Chriſtian atonement.</p>
+            <p>S<hi rend="sup">t</hi> Bernard mentions divers unions in a tract of his ſtiled, <hi>Varij Sermones,</hi> naturall, carnall, virtuall, morall, per<g ref="char:EOLhyphen"/>ſonall, ſubſtantiall, and the like. Na<g ref="char:EOLhyphen"/>turall between the Soul and the body, they are one man; Carnal between the Man and the Woman, they are one Fleſh; Virtuall in the Conſent of our af<g ref="char:EOLhyphen"/>fections, they are one harmony; morall in the Conjunction of brethren, they are one Society: perſonall with the divinity and humanity, they are one Chriſt; ſubſtantiall in the deep my<g ref="char:EOLhyphen"/>ſtery of the bleſſed Trinity, They are are our God, our Lord, of whom, and by whom, and through whom all things were made. As for the union in the Text it is ſpirituall, whereby wee
+<pb n="17" facs="tcp:121334:13"/> are not only transformed in our ſelves, and tranſported out of our ſelves, but engrafted in Chriſt, and made one Spirit with him, as it is directly avowed by the Doctor of the Gentiles in the 6 Chapt. and 17. verſe of the 1 Ep. to the Corinth. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he that is joyned with the Lord, is one Spirit with him, acted by one Spirit, raiſed by one Spirit, ſanctified by one Spirit, governed by one Spirit, the holy ghoſt moving as it were upon the whole body of the Church, and having a gracious influence from the head of Chriſt to the hearts of men, and the ſecreteſt juncture of his deareſt mem<g ref="char:EOLhyphen"/>bers, For when Chriſt was gone, he ſent down a fire on the Earth, a Veſtal fire, a ſacred fire, a bleſſed fire, a holy fire; I mean <hi>the Comforter,</hi> which is the love of God, that hee might keep us to to himſelfe, and abide with us for ever.</p>
+            <p>I could fix upon ſuch a meditation as this, and dwell in the contemplation of divine peace, that great atonement, that bleſſed atonement, the atonement
+<pb n="18" facs="tcp:121334:14"/> with an Emphaſis, the atonement with an excellence that cleares the minde, and cheares the ſpirit with uni<g ref="char:EOLhyphen"/>maginable comfort, <hi>dulcor ejus abſorbet conſcientiam,</hi> ſaith that elegant father <hi>the ſweeteneſſe thereof ſwallowes up my thoughts,</hi> and puts me into a frame of jubilar exceſſe. O that it were no leſſe with men, than with God, and that wee might ſee a perfect reconcilement in every condition, like that of the diſci<g ref="char:EOLhyphen"/>ples who mett together <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Text hath it, <hi>with one mind, in one place</hi> in the 2. and 1. of the Acts of Apoſt. But this is more to be prayed for, than can eaſily be expected in Maſſa and in Meribba, at the Waters of ſtrife, amidſt the diviſions of many brethren. And yet it is a ſhame, that Chriſt ſhould dye to make our peace, and we ſhould live to make debate a<g ref="char:EOLhyphen"/>mongſt our ſelves: ſtriving and ſtrug<g ref="char:EOLhyphen"/>ling, like Iacob and Eſau in the wombe, and bowels of Church and Country, not as true Iſraelites, but as vaine Iſh<g ref="char:EOLhyphen"/>maelites, or generations of the Patri<g ref="char:EOLhyphen"/>arch
+<pb n="19" facs="tcp:121334:14"/> Dan, who was ſaid to be <hi>Coluber in viâ,</hi> a Snake in the path, and a Ser<g ref="char:EOLhyphen"/>pent in the way Gen. 49. The Lord grant, that at length we may be able to ſay in a generall ſenſe, a ſenſe morall, a ſenſe politicall, a ſenſe naturall, a ſenſe eccleſiaſticall <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>wee have received the atonoment,</hi> for the honour of God, the peace of Sion, and the great Security of this Land and Nation.</p>
+            <p>But I haſten to my Second obſerva<g ref="char:EOLhyphen"/>tion, from the <hi>grace</hi> to the <hi>meanes,</hi> from the <hi>benefit</hi> to the <hi>Conveyance,</hi> and that is <hi>Dominus Ieſus Chriſtus, our Lord Jeſus Chriſt.</hi> Not Moſes or Aa<g ref="char:EOLhyphen"/>ron, not an Angell or Cherubim, nor any creature of higheſt order, but <hi>God</hi> alone through Chriſt his Son: <hi>Jeſus Chriſt, our Lord Jeſus Chriſt,</hi> (as wee read in the Words of my Apoſtle.) He is a Lord for his Dominion, a Jeſus for his ſalvation a Chriſt for the dignity of his threefold unction. A Lord that doth rule us, a Jeſus that hath freed us, a Chriſt that ſhall anoint us, with grace
+<pb n="20" facs="tcp:121334:15"/> holyneſſe, joy and gladneſſe, to the rich enheritance of immortall bleſſedneſſe.</p>
+            <p>Give me leave then to put you in mind of a notable ſaying which I have from S<hi rend="sup">t</hi> Ambroſe, <hi>vulnus accepit, un<g ref="char:EOLhyphen"/>guentum effudit,</hi> hee took a ſore wound in his naturall body, he powred forth a Soveraign balm in his myſticall body: a Soveraigne balme, a pretious ointment, that hath cured our ſores, and healed our infirmities, to all well-pleaſing, and good acceptance with the <hi>God of all comfort and Father of mercies.</hi>
+            </p>
+            <p>Indeed wee have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Word of reconcilement, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the miniſtry of reconciliation: but the Worke is his, the power is his, the merit is his, the performance is his, that made both one, by virtue of his paſſion. We are ſerviceable, and inſtru<g ref="char:EOLhyphen"/>mentall, as ſuppliant Orators, and ſub<g ref="char:EOLhyphen"/>ordinate cooperators in ſo great a buſi<g ref="char:EOLhyphen"/>neſſe. Hee is the root, and the ground, the ſpring and the fountaine of that ce<g ref="char:EOLhyphen"/>leſtiall agreement, and heavenly com<g ref="char:EOLhyphen"/>poſition. Whereupon ſaith John, <hi>We</hi>
+               <pb n="21" facs="tcp:121334:15"/> 
+               <hi>have an Advocate with the Father, Jeſus Chriſt the righteous, and he is the recon<g ref="char:EOLhyphen"/>ciliation for our ſinnes.</hi> As for <hi>Paul,</hi> he is moſt cleare, with a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>God hath reconciled us to himſelfe through Jeſus Chriſt.</hi> And againe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>God is in Chriſt, reconciling the world unto himſelfe,</hi> 2 Cor. 5. 18, 19.</p>
+            <p>How then is it that in the ſame place, we are deſired to be reconciled unto God, <hi>we pray you in Chriſts ſteed, that yee be reconciled unto God?</hi> Have we ſtrength enough to do it our ſelves? and are we able to make our owne peace? This ſeemes to contradict the ſeries of the Text, and to derogate from the honour of an abſolute medi<g ref="char:EOLhyphen"/>atour. Yet if we diſtinguiſh the man<g ref="char:EOLhyphen"/>ner, 'twill be no hard matter to recon<g ref="char:EOLhyphen"/>cile the Scripture. Chriſt did it <hi>fun<g ref="char:EOLhyphen"/>damentally,</hi> we <hi>conformably:</hi> Chriſt <hi>authentically</hi> and <hi>radically,</hi> we <hi>obſequi<g ref="char:EOLhyphen"/>ouſly</hi> and <hi>readily,</hi> with deſires anſwer<g ref="char:EOLhyphen"/>able and hearty being drawne and converted in the ſound of his word and power of his Goſpell, in the ſmell of
+<pb n="22" facs="tcp:121334:16"/> his garments, and the ſavour of his oyntments. Inſomuch that what he wrought by the wonderfull humilia<g ref="char:EOLhyphen"/>tion of his temporall oeconomy, we muſt apply it to our hearts and conſci<g ref="char:EOLhyphen"/>ences by faith, repentance, charity, obedience, invocation, adoration, the frequent exerciſes of the holy Sacra<g ref="char:EOLhyphen"/>ments, and the religious obſervation of divine ordinances, which were given us for no other end, but that we may draw neere unto God as loving chil<g ref="char:EOLhyphen"/>dren.</p>
+            <p>Let men pleaſe themſelves never ſo much with their ſeverall Idols, whe<g ref="char:EOLhyphen"/>ther <hi>Corporall</hi> or <hi>ſpirituall,</hi> among the dead, or among the living: there is no creature in heaven or in earth, in the center of the one, or circle of the other that can bring us to God but only Chriſt Jeſus; The Angell of the Co<g ref="char:EOLhyphen"/>venant, the firſt borne of every crea<g ref="char:EOLhyphen"/>ture, the great high prieſt, that took the cenſer of his fleſh, and laid upon it the burning coales of divine love, and offered up the ſweet incenſe of a pure
+<pb n="23" facs="tcp:121334:16"/> heart and a gracious ſpirit. Is he not the way and the doore? the way in whom we go? the doore by whom we enter? As no man comes to the ſonne, unleſſe the father draw him: ſo no man comes to the father, unleſſe the ſonne doth bring him. <hi>Abraham is igno<g ref="char:EOLhyphen"/>rant, and Iſrael knowes us not,</hi> as we read in that Evangelicall prophet.
+<q>
+                  <l>—<hi>Nec defenſoribus iſtis</hi>
+                  </l>
+                  <l>
+                     <hi>Tempus eget—</hi>
+                  </l>
+               </q> For behold Chriſt is here, cloathed with our fleſh; that he may inveſt us with his righteouſneſſe, and preſent us to the father, holy and unblameable, without ſpot in his ſight: a greater then <hi>Moſes,</hi> a greater then <hi>Aaron,</hi> a greater then <hi>Elias,</hi> a greater then <hi>Solamon,</hi> or any prophet, ſince the world began. And therefore God muſt needs be angry, if we do not kiſſe the Sonne, his deare Sonne, his beloved Sonne, in whom alone he is well pleaſed, and by whom alone we are truly reconciled: kiſſe the mouth
+<pb n="24" facs="tcp:121334:17"/> of his word, and pretious oracles: kiſſe the hand of his power, and wondrous miracles, kiſſe the feet of his juſtice and ſure mercies, his ſure mercies and ſteadfaſt promiſes that ſtand as the Sunne, and continue as the Moone for ever in the heavens. Theſe we muſt kiſſe, and theſe we muſt embrace, looking towards Jeſus, the author and finiſher of our courſe: if ever we mean to have God our friend or the light of his countenance to ſhine upon us.</p>
+            <p>It was for <hi>Joſeph's</hi> ſake, that his brethren were ſo courteouſly received: and it is for Chriſts ſake that we are ſo graciouſly reconciled. He came into the world as <hi>Joſeph</hi> came into <hi>Egypt,</hi> for the good and the benefit, for the protection and the liberty, the help and the comfort, the proviſion and the ſafety of all his brethren. And there<g ref="char:EOLhyphen"/>fore <hi>Auguſtine</hi> will have him to be a figure of Chriſt, with a <hi>typum geſſit ſalvatoris,</hi> in one of his ſermons in<g ref="char:EOLhyphen"/>ſcribed, <hi>de tempore:</hi> both alike ſold, both a like ſpoyled, one throwne into
+<pb n="25" facs="tcp:121334:17"/> a pit, another into a grave; one caſt into a dungeon, another into hell by a voluntary condeſcention; though ex<g ref="char:EOLhyphen"/>alted at length that he might ſave us, as well from <hi>death</hi> as from <hi>derth,</hi> the derth of his word, and the death of our ſoules, in that burn<g ref="char:EOLhyphen"/>ing lake of intollerable woe, and in<g ref="char:EOLhyphen"/>ſupportable miſery. And therefore ſaith <hi>Bernard, mortem pertulit, at mor<g ref="char:EOLhyphen"/>tem ſuſtulit,</hi> he ſuffered death, but he aboliſhed death, and deſtroyed him that had the power of death with his owne weapon.</p>
+            <p>Sweet Jeſu! who ſhall declare the ſtrange procurement of our gracious reconcilement in that rare Conjuncti<g ref="char:EOLhyphen"/>on of both natures, by the power of the Godhead, by the patience of the man-hood, by the majeſty of the one, by the humility of the other? This enabled thee to beare, that to over<g ref="char:EOLhyphen"/>come; this to endure, that to ſatisfy; this to deſcend and lay downe thy life, that to aſcend and take it up againe, that we may be advanced above thoſe
+<pb n="26" facs="tcp:121334:18"/> angelicall <hi>Thrones,</hi> and ſit together with thee in heavenly places. S<hi rend="sup">t</hi> 
+               <hi>Chry<g ref="char:EOLhyphen"/>ſoſtome</hi> is aſtoniſhed with it, and cries out <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>how comes this work, this great work to be acted and accompliſhed?</hi> And therefore I will not take upon me to deſcribe the manner of it, further then I have direction from the Apoſtle, who gives you a twofold explication in the 1 Chap. of the Epiſt. to the Colloſ. that he doth reconcile us <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in the body of his fleſh through death:</hi> and that he doth reconcile us <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>with</hi> the blood of his croſſe: where you have <hi>death</hi> and <hi>blood,</hi> and a <hi>Croſſe.</hi> In death there is miſery, in blood there is cruelty, in a croſſe there is ſhame and notorious in<g ref="char:EOLhyphen"/>famy. All which meet together like three fatall ſiſters in Conjunction, for ill to Chriſt, for good to us, the ag<g ref="char:EOLhyphen"/>gravation of his puniſhments, the in<g ref="char:EOLhyphen"/>ſtauration of our nature; that we may be joyned with the Saints above, and gathered into the boſome of our hea<g ref="char:EOLhyphen"/>venly father; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the body
+<pb n="27" facs="tcp:121334:18"/> of his fleſh through death, and that with blood, the blood of his Croſſe; the blood of his croſſe that hath drown<g ref="char:EOLhyphen"/>ed our iniquities, the blood of his croſſe that hath purged our Conſciences, the blood of his Croſſe that hath deſtroy<g ref="char:EOLhyphen"/>ed our enemies, the blood of his Croſſe that hath juſtified our perſons, the blood of his Croſſe that hath quench<g ref="char:EOLhyphen"/>ed the violence of that flaming ſword that hung at the gate of our celeſtiall paradiſe, to keep us back from the ſight of God, and the bleſſed Com<g ref="char:EOLhyphen"/>munion of his glorious Angells. In<g ref="char:EOLhyphen"/>ſomuch that <hi>Auguſtine</hi> ſpeaking of Satan hath theſe words <hi>victus in pati<g ref="char:EOLhyphen"/>bulo qui vicerat in par adiſo,</hi> He is now overcome in the blood of his Croſſe, that did firſt overcome in the garden of paradiſe.</p>
+            <p>The Apoſtle affirmes <hi>we are bought with a price.</hi> I confeſſe we are recon<g ref="char:EOLhyphen"/>ciled with a price, a great price, the price of blood, whilſt the chaſtiſement of our peace was laid upon him, and his ſtripes were our healing; for it
+<pb n="28" facs="tcp:121334:19"/> coſt him deare, and whatſoever he got for us, he purchaſed at a very high rate; our peace with his owne travell, our freedome with his owne bondage, our favour with his owne diſgrace, our comfort with his owne puniſhment, our welcome and reception with his owne contempt and dereliction, a ſtrange dereliction, a grievious dere<g ref="char:EOLhyphen"/>liction, that made him cry, and lift up his voyce, with anguiſh of heart and agony of Spirit, <hi>Eli, Eli, lammaſa<g ref="char:EOLhyphen"/>bachthani, my God, my God, why haſt thou forſaken me?</hi>
+            </p>
+            <p>Now me thinkes, I ſtand amazed at the love of God that hath reconciled us with the death of his Sonne, the bitter death of his only begotten Son, at the love of Chriſt that hath recon<g ref="char:EOLhyphen"/>ciled us with his blood, the volunta<g ref="char:EOLhyphen"/>ry effuſion of his owne moſt pretious blood. What ſhall he not do for us, now we are made friends and righte<g ref="char:EOLhyphen"/>ous, that did ſo much for us being enemies and ſinners, <hi>dabit tibi bona ſua qui pertulit mala tua,</hi> ſaith learned
+<pb n="29" facs="tcp:121334:19"/> 
+               <hi>Auguſtine.</hi> He muſt needs beſtow his reſt upon us that hath taken his burdens upon himſelfe.</p>
+            <p>The truth is, his death is available unto life, his life is available unto glo<g ref="char:EOLhyphen"/>ry, his death plucks us out of Satans hands, his life puts us into Gods hand, and the protection of his majeſty. We are abſolved by his death, we ſhall be advanced by his life, we are ſaved by his death, we ſhall be kept by his life never to depart from the obedience of his truth, when he ſhall have bound us to himſelfe with everlaſting mercy, in a three-fold cord of faith, hope, and charity,
+<q>
+                  <p>—Quem nec ſatanae ir a nec ignis, Nec ferrum potuit, nec edax abolexe vetuſtas.</p>
+               </q> as the Poet hath it in another ſenſe, which no force ſhall be able to break, no age to conſume, no power to diſ<g ref="char:EOLhyphen"/>ſolve, nor yet the gates of hell ever to prevaile againſt.</p>
+            <pb n="30" facs="tcp:121334:20"/>
+            <p>It is recorded of S<hi rend="sup">t</hi> 
+               <hi>Bernard,</hi> in his life <hi>Guilielmus,</hi> when Satan came to him in his ſickneſſe, and thought to drive him to deſpaire with remem<g ref="char:EOLhyphen"/>brance of his ſinnes, that he was much troubled at firſt, but afterwards ga<g ref="char:EOLhyphen"/>thering ſtrength, ſaid unto him, <hi>non ſum aignus &amp;c.</hi> I confeſſe, I am not worthy of my ſelfe, neither can I ex<g ref="char:EOLhyphen"/>pect to enter heaven by any righteouſ<g ref="char:EOLhyphen"/>neſſe of my owne, but Chriſt hath a double right unto that glorious king<g ref="char:EOLhyphen"/>dome, one of <hi>inheritance</hi> by the fa<g ref="char:EOLhyphen"/>ther, another of <hi>purchaſe</hi> by his paſſi<g ref="char:EOLhyphen"/>on. That of inheritance he keeps to himſelfe, and reſts in it; that of pur<g ref="char:EOLhyphen"/>chaſe he gives to me, and I lay hold on it with faith and confidence. At theſe words the enemie was confounded and vaniſhed away: but the holy father was much comforted, and triumph't ex<g ref="char:EOLhyphen"/>ceedingly in the merits of his Saviour. By this we learne to caſt our ſelves up<g ref="char:EOLhyphen"/>on God for eternall ſafety, with a per<g ref="char:EOLhyphen"/>fect abdication of humane infirmity; and may juſtly Condemne the vanity
+<pb n="31" facs="tcp:121334:20"/> of ſuch as go from the Sunne to the Moone, from the lord to our lady, from the fountaine of living waters, to the broken ciſterne of humane emp<g ref="char:EOLhyphen"/>tineſſe, and from the protection of our Saviour, to the mediation of any crea<g ref="char:EOLhyphen"/>ture, from the temple of God to the temple of idols, from the ſacrifice of Chriſt and the ſatisfaction of his death, to the ſhrines of <hi>Diana,</hi> or the rotten ſepulchers of the moſt holy Martyrs. Theſe I might argue, and theſe I might condemne, but that indeed they are not ſo much to be refuted with care and deliberation, as to be exploded with ſcorne and deriſion.</p>
+            <p>The uſe I ſhall make of this doctrine is a ſhort expoſtulation out of S<hi rend="sup">t</hi> 
+               <hi>Au<g ref="char:EOLhyphen"/>guſtine,</hi> with <hi>à quanta iniquitas? quan<g ref="char:EOLhyphen"/>ta perverſitas &amp;c?</hi> If the peace of our ſoules, and the reconcilement of our natures be the price of blood, the blood of Chriſt, the true Sonne of the everliving God: what a pravity, what injuſtice, what a phrenſy, what a mad<g ref="char:EOLhyphen"/>neſſe is it, to ſell againe thoſe ſoules
+<pb n="32" facs="tcp:121334:21"/> unto the Divell for a little gaine, a little pleaſure, a little ſmoke, a little honour, or any the like ſhadow of outward meanes and temporall felicity, which God hath purchaſed to himſelfe with extreame paine, and infinite mi<g ref="char:EOLhyphen"/>ſery?</p>
+            <p>The Argument which the Apoſtle frames is moſt conſiderable, and wor<g ref="char:EOLhyphen"/>thy of obſervation, <hi>yee are bought with a price, and are not your owne.</hi> Your bodies are his, your ſoules are his, that did emancipate and ſet them free from the ſtrong mans hand and danger of the enemy: his by creation, his by redemption, his in making, his in re<g ref="char:EOLhyphen"/>conciling, and therefore he muſt be glorified in both, and loved of both, that we may delight in him, and he de<g ref="char:EOLhyphen"/>light in us, that we may rejoyce in him, and he may rejoyce in us with joy unſpeakable and full of glory. For if it be life eternall to know God, what is it to love God? and to have the gracious returnes of love from him againe? Without controverſy; it is
+<pb n="33" facs="tcp:121334:21"/> the fulneſſe of joy, and the marrow of bliſſe: as rivers of oyle, and floods of peace, whereof the Angels drink moſt plenteouſly, and are continually re<g ref="char:EOLhyphen"/>freſht. And therefore ſaith <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, To love God and to be loved of God, with the ſweet reciprocation of mutuall dilection is more then a Kingdome to the Saints; the King<g ref="char:EOLhyphen"/>dome of glory, the Kingdome of hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>My deare brethren, I beſeech you with the Apoſtle, or rather I charge you with King <hi>Salomon,</hi> by the hinds and by the roes, by the mercies of God and bowels of Chriſt Jeſus, by the obedience of his life, by the pow<g ref="char:EOLhyphen"/>er of his death, by his Word and by his Goſpel, by his Sacraments, and by his ordinances, by the blood which he ſhed for you, and by the Spirit which he ſent to you, that he might lead you into all truth, and make you partakers of a pretious inheritance a<g ref="char:EOLhyphen"/>mongſt the Saints in glory,</p>
+            <pb n="34" facs="tcp:121334:22"/>
+            <q>Cuſtodite animas &amp; nulli credite raſo.</q>
+            <p>keep your ſoules with all diligence, and let nothing draw you from the love of Chriſt Jeſus, cleave to the Lord with all perſeverance, and what God hath joyned let no man ſever. In vaine do we renew the league of divine friend<g ref="char:EOLhyphen"/>ſhip, if we do not hold it inviolably, without provocation of great offence. The fathers would have <hi>Caudam hoſtiae,</hi> as well as <hi>Caput hoſtiae,</hi> both head and rump to be offered, no leſſe in ſpirituall ſacrifices, then heretofore in the juſt performance of legall obſervances. The pretious robe of Chriſtian holi<g ref="char:EOLhyphen"/>neſſe ought to be like the embroyder<g ref="char:EOLhyphen"/>ed Coat of the Patriarch <hi>Joſeph,</hi> which is ſaid to be <hi>talaris,</hi> downe to the feet and below the ancles: that we may ad<g ref="char:EOLhyphen"/>here conſtantly to the Lord, and finiſh our Courſe in the perfection of holi<g ref="char:EOLhyphen"/>neſſe. It is a great intereſt we have in God by meanes of this preſent union;
+<pb n="35" facs="tcp:121334:22"/> labour to improve it, and do not grieve the Holy Spirit; whereby yee are not only joyn'd and coupled, but Sealed and confirmed unto the time of your redemption. Chriſt ſaies, <hi>yee are made whole, ſinne no more, leſt a worſe thing come unto you.</hi> I ſay, yee are made <hi>friends,</hi> ſinne no more, leſt a worſe thing come unto you, when the houſe of your Soule, and tabernacle of your Conſcience being ſwept and gar<g ref="char:EOLhyphen"/>niſht, may draw many uncleane ſpi<g ref="char:EOLhyphen"/>rits in, and the end prove worſe, then your beginning. Are yee not waſht? are yee not cleanſed? are yee not re<g ref="char:EOLhyphen"/>conciled? are yee not juſtified? are yee not cured? are yee not healed? are yee not renewed? are yee not ſan<g ref="char:EOLhyphen"/>ctified, in the name of the Lord Jeſus; and by the Spirit of our God? Chriſt hath obtained for you the remiſſion of your ſinnes, and Chriſt hath put on you the garment of his righteouſneſſe, that yee may find grace in the ſight of God, and be adopted into the family of his deareſt children, with all the
+<pb n="36" facs="tcp:121334:23"/> Company of his elect Angels. Be<g ref="char:EOLhyphen"/>ware then of relapſing into ſinne, and take heed there be not found among you a heart of unbeliefe, to depart from the living God. O let not the poyſon of ſinne, abide in you, becauſe the love of God hath abounded to<g ref="char:EOLhyphen"/>wards you: but hate it as a Serpent, and embrace him that hath taken away the ſting. Avoyd it as a <hi>Syren,</hi> and hold what you have, that no man take away your Crowne, the Crowne of your life, the Crowne of your rejoy<g ref="char:EOLhyphen"/>cing, whereby we are enabled to cry with the Apoſtle, and to ſing trium<g ref="char:EOLhyphen"/>phantly, <hi>with joy in God through our Lord Jeſus, by whom we have now re<g ref="char:EOLhyphen"/>ceived the atonement.</hi>
+            </p>
+            <p>And ſo I come to my laſt obſervati<g ref="char:EOLhyphen"/>on, <hi>The reſult or extraction, of delight and glory, exultation and jucundity.</hi> Which indeed is pleaſing and may ſerve for application of all that hath been ſpoken, <hi>In Deogloriamur, we joy in God.</hi>
+            </p>
+            <p>
+               <hi>Saul</hi> had a <hi>Jonathan, David</hi> an <hi>Ab<g ref="char:EOLhyphen"/>ſalon,</hi> and <hi>Paul</hi> himſelfe a beloved <hi>Ti<g ref="char:EOLhyphen"/>mothy,</hi>
+               <pb n="37" facs="tcp:121334:23"/> and a deare <hi>Philemon;</hi> wherein they took much pleaſure and delight. But God alone is the joy of our hearts, and the Solace of our Spirits, that hath called us to his eternall glory through Chriſt Jeſus. And doubtleſſe we may very well joy in God, that enjoy ſo much from God, in temporall mer<g ref="char:EOLhyphen"/>cies, ſpirituall graces, outward bene<g ref="char:EOLhyphen"/>dictions, and inward refections, that fill our ſoules with marrow and fat<g ref="char:EOLhyphen"/>neſſe. For to ſpeak in the words of <hi>Salomon, The winter is paſt, the ſhowers are gone, the ſinging of Birds is come, and the flowers appeare in our land:</hi> Choyce flowers of grace and peace, truth and righteouſneſſe, whereof we may compoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (as S<hi rend="sup">t</hi> 
+               <hi>Chry<g ref="char:EOLhyphen"/>ſoſtome</hi> ſpeaks) a thouſand garlands of divine celebrities, and tripudiant gratu<g ref="char:EOLhyphen"/>lations. He that turned water into wine before his death, turned blood into wine, at his death; the blood of his Croſſe into the wine of gladneſſe, the blood of his paſſion into the wine of conſolati<g ref="char:EOLhyphen"/>on: A ſweet wine, a pleaſant wine,
+<pb n="38" facs="tcp:121334:24"/> the <hi>mulſum</hi> of grace, and the <hi>muſtum</hi> of his Spirit, (for ſo I promiſe you, S<hi rend="sup">t</hi> 
+               <hi>Bernard</hi> termes it,) reſerved for the marriage of the lambe, and kept as twere in the wine cellars of the King: that we may be cheared and wholy for<g ref="char:EOLhyphen"/>get the vanities of the world, the pleaſures of ſinne, the luſts of the fleſh, and the lures of Satan.</p>
+            <p>For indeed, he is the right object of humane Comfort, moſt abſolute and compleat, moſt adequate and perfect, that can ſatisfy the heart of man, and fill every corner of that winding Laby<g ref="char:EOLhyphen"/>rinth with delicious Content. We joy in him, and we joy of him, in him for the grace of preſent adoption, of him for the hope of future exaltation to our ſelves and to our brethren: In him ſimply, as he is God in himſelfe, of infinite power and incomprehenſi<g ref="char:EOLhyphen"/>ble majeſty, in him reſpectively as he is God to us of infinite goodneſſe, and unſpeakable mercy; In him as a God, in him as a Father, in him as a Lord, in him as a Saviour, that we are his,
+<pb n="39" facs="tcp:121334:24"/> and that he is ours, by the gracious ſti<g ref="char:EOLhyphen"/>pulations of Evangelicall promiſes, <hi>Our</hi> God and <hi>our</hi> Father, <hi>our</hi> Lord and <hi>our</hi> Saviour, the Author of peace and e<g ref="char:EOLhyphen"/>verlaſting tranquillity, the donor of life and immortall glory; which makes the ſpouſe rejoyce with melody, and ſing with jubilee, <hi>my beloved is mine, and I am his.</hi> He feedeth among the lilies, the white Soules and pure Con<g ref="char:EOLhyphen"/>ſciences of men Sanctified with the Spi<g ref="char:EOLhyphen"/>rit of holineſſe.</p>
+            <p>
+               <hi>Aeneas Sylvius</hi> uſed to ſay (as tis recorded in his life by <hi>Platina) nullum gaudium ſine virtute ſolidum,</hi> there Could be no ſollid joy without the exerciſe of virture. Had it been ſaid <hi>without the love of God in Jeſus Chriſt,</hi> it had been ſpoken moſt divinely. Some joy in their ſtrength but that is Carnall, ſome joy in their wiſdome but that is imperfect, ſome joy in their treaſure but that is deceitfull, ſome joy in their greatneſſe and honour but that is inconſtant and ſometimes mu<g ref="char:EOLhyphen"/>table, and therefore we joy in God
+<pb n="40" facs="tcp:121334:25"/> that are endeared to him, and have re<g ref="char:EOLhyphen"/>ceived the benefit of divine atonement. Our heart doth rejoyce, and our fleſh doth rejoyce in God, the living God, that makes us a rejoycing, and Cre<g ref="char:EOLhyphen"/>ates us a very joy, through Chriſt his Sonne, and the powerfull working of his Continuall interceſſion.</p>
+            <p>The originall word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is moſt emphaticall, and impleyes a kind of joy more then ordinary, even geſtient gladneſſe, and triumphant glory: I know not whether I ſhould call it an exultation, or an inſultation, becauſe it makes us inſult over the adverſary, and triumph over the enemy, laughing at his deſtruction, and expoſing him openly, as the <hi>Graecian</hi> did, of whom the verſe goes,</p>
+            <p>
+               <hi>Ter circum Iliacos raptaverat He<g ref="char:EOLhyphen"/>ctoramuros,</hi>
+            </p>
+            <p>for by this, we do not only joy in God, but we joy over that which may anoy our ſoules, and trample on it
+<pb n="41" facs="tcp:121334:25"/> with deriſion and contempt. Not un<g ref="char:EOLhyphen"/>like our bleſſed Saviour, when he brui<g ref="char:EOLhyphen"/>ſed the head of the Serpent, and brake the head of the Leviathan in the midſt of the waters; ſporting with him that ſported therein, with the ſtaffe of his Croſſe, and the rod of his power, his eternall power and God-head, <hi>Rom. 1. Who then ſhall lay any thing to our charg? It is God that juſtifieth, who ſhall con<g ref="char:EOLhyphen"/>demne? It is Chriſt that died. yea rather which is riſen againe, and ſits at the right hand of God, and makes interceſ<g ref="char:EOLhyphen"/>ſion for us,</hi> as we have it in that brave challenge, graciouſly ſet downe, and couragiouſly ſent forth by that Cham<g ref="char:EOLhyphen"/>pion of God, and trumpet of the Goſ<g ref="char:EOLhyphen"/>pel, the Doctor of the Gentiles, and veſſell of election, in plaine ſcorne and open defence of <hi>ſpirituall wickedneſſe in higheſt places.</hi>
+            </p>
+            <p>We joy in God, we joy over death, we joy in God, we joy over ſinne, we joy in God, we joy over the grave, we joy in God, we joy and <hi>crow,</hi> (as it were) over hell and Satan, with all
+<pb n="42" facs="tcp:121334:26"/> the powers of that infernall kingdome, and may ſafely tread upon Serpents and Scorpions, (as the Apoſtles did) with<g ref="char:EOLhyphen"/>out hurt and danger, in the name of Chriſt, and ſtrength of our redeemer, that hath ſet up his croſſe, as a glori<g ref="char:EOLhyphen"/>ous Trophy in the midſt of the Nati<g ref="char:EOLhyphen"/>on, to the everlaſting reproach and e<g ref="char:EOLhyphen"/>ternall confuſion of the Dragon and his angels. Of this we have both an em<g ref="char:EOLhyphen"/>bleme and example: an Embleme in the woman that was cloathed with the Sun, and had the Moon under her feet: an example in the Apoſtle when he brake forth into that triumphant <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Oh death where is thy ſting? O grave where is thy victory? The ſting of death is ſinne, and the ſtrength of ſinne is the law: but thanks be to God who hath gi<g ref="char:EOLhyphen"/>ven us victory through our Lord Jeſus Chriſt.</hi> And therefore ſaith God by the mouth of his Servant, <hi>Qui gloria<g ref="char:EOLhyphen"/>tur, in me glorietur;</hi> let him that glo<g ref="char:EOLhyphen"/>rieth, glory in me, that he underſtandeth me, and that he knoweth me, who ſheweth mercy, and judgment, and
+<pb n="43" facs="tcp:121334:26"/> righteouſneſſe upon the earth, <hi>Jer.</hi> 9.</p>
+            <p>Give me leave then to put you in mind of thoſe everlaſting joyes, which ſhall never be taken from you, not of meat and of drinke, not of harp and viol, in the luxury of the greateſt feaſts, but of God and of Chriſt, the Word and his Spirit, <hi>Quo nihil ſpecioſius, quo nihil pretioſius,</hi> in the ſweet language of that incomparable Father: then which nothing is more amiable and ſpe<g ref="char:EOLhyphen"/>cious for grace and beauty, nothing more admirable and pretious for ſub<g ref="char:EOLhyphen"/>ſtance and value, leſt it be ſaid of you, as it was of the <hi>Phariſees,</hi> Luk. 7. 32. <hi>Cantavimus, &amp; non Saltaſtis,</hi> we have Piped unto you, but ye have not Dan<g ref="char:EOLhyphen"/>ced, we have Sung unto you, but yee have not rejoyced; you may peradven<g ref="char:EOLhyphen"/>ture have joyed in the pleaſant noiſe of muſicall inſtruments, yee have not re<g ref="char:EOLhyphen"/>joyced at the Word of God, and ſound of his Goſpell, in ſober dances of Spi<g ref="char:EOLhyphen"/>rituall rejoycings: with this he is plea<g ref="char:EOLhyphen"/>ſed, with that he is grieved: in this he is glorified, in that he is diſhonoured,
+<pb n="44" facs="tcp:121334:27"/> and ſometimes mightily blaſphemed.</p>
+            <p>I will not deny, but that we may re<g ref="char:EOLhyphen"/>joyce in the outward comforts of hu<g ref="char:EOLhyphen"/>mane life, and take pleaſure in the ve<g ref="char:EOLhyphen"/>ry creature, joy in health, joy in beau<g ref="char:EOLhyphen"/>ty, joy in wealth, joy in ſafety, joy in Arts and Sciences, Tongues and Lan<g ref="char:EOLhyphen"/>guages, friends and favours, priviledges and preferments, the gifts of nature and the graces of the Spirit, whereby we are enabled to promote the honour of God and benefit of his Servants. In theſe we may rejoyce, in theſe we may triumph, as they are bleſſings of our heavenly Father and pledges of his love: ſo it be with a twofold Caution and reſpect: the one of <hi>thankfulneſſe,</hi> in the right acknowledgment of divine bounty, from whence they come; the other of <hi>ſubordination</hi> in the reall in<g ref="char:EOLhyphen"/>tendment of divine glory, whereunto they runne. For that is <hi>finis debitus,</hi> as <hi>Aquinas</hi> ſpeaks, and ought to be the maine aime of our beſt faculties and moſt eminent perfections. In this ſenſe we interpret the words of S<hi rend="sup">t</hi> 
+               <hi>Paul,</hi>
+               <pb n="45" facs="tcp:121334:27"/> and are to underſtand that deprecation of the Apoſtle; <hi>God forbid I ſhould re<g ref="char:EOLhyphen"/>joyce in any thing, but the Croſſe of our Lord Jeſus Chriſt:</hi> not primarily and wholy, but conditionally and mode<g ref="char:EOLhyphen"/>rately in order to Chriſt and the ad<g ref="char:EOLhyphen"/>vancement of his glory.</p>
+            <p>And therefore, as <hi>Ariſtotle</hi> ſaid, when they brought him two ſorts of wine, the one from <hi>Rhodes,</hi> the other from <hi>Lesbos,</hi> with alluſion to his Scho<g ref="char:EOLhyphen"/>lars, <hi>Menedemus</hi> and <hi>Theophraſtus</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp;c. <hi>That of</hi> Rhodes <hi>is good, but this of</hi> Lesbos <hi>is the ſweeter:</hi> So do I profeſſe of earthly joy and hea<g ref="char:EOLhyphen"/>venly joy, corporall joy and ſpirituall joy, the joy of the Creature, and the joy of the Creator: that may be good, this is better, that may be pleaſant, this is ſweeter, that may be uſefull, this is needfull, and ſuch as ought moſt to be deſired.</p>
+            <p>Faine would I draw you to it, that your hearts may rejoyce, and your joy may be full, when that which is perfect ſhall come, and that which is imperfect
+<pb n="46" facs="tcp:121334:28"/> ſhall be done away. <hi>For in his preſence, there is fulneſſe of joy, and at his right hand there are pleaſures for ever more.</hi> But where I faile, let <hi>Auguſtine</hi> go on, and make ſupply with his <hi>gaudete</hi> in one of his Sermons <hi>de Verbis Domini, Gau<g ref="char:EOLhyphen"/>dete in Domino, non in ſaeculo: Gaudete in veritate, non in falſitate: Gaudete in ſpe aeternitatis, non in ſtore vanitatis:</hi> rejoyce in the Lord, not in the world: rejoyce in the truth, not in falſhood; rejoyce in the hope of life and glory, not in the flower and flouriſh of Pride, and of vanity. All this is ſtrongly en<g ref="char:EOLhyphen"/>forced by the Word of God, which in<g ref="char:EOLhyphen"/>deed is mighty in operation, and ſhar<g ref="char:EOLhyphen"/>per then a two edged ſword, to divide betwixt the Soule and the Spirit, the joynts and the marrow, the world and your heart, the earth and your affecti<g ref="char:EOLhyphen"/>ons. I might ſend you to the Prophet <hi>David</hi> for ample direction, who writes many <hi>Pſalmes</hi> of this argument, with a <hi>jubilate in Deo, O be joyfull in the Lord, all yee Lands, ſerve the Lord with glad<g ref="char:EOLhyphen"/>neſſe, and come before his preſence with a</hi>
+               <pb n="47" facs="tcp:121334:28"/> 
+               <hi>ſong:</hi> And with a <hi>Venite, exultemus in Domino, O Come let us ſing unto the Lord, let us heartily rejoyce in the ſtrength of our Salvation, let us come before his preſence with thanks-giving, and ſhew our ſelves glad in him with Pſalmes.</hi> But I ſhall leave you to a ſhorter compen<g ref="char:EOLhyphen"/>dium out of the Apoſtle, <hi>Philip.</hi> 4. 4. where he gives you a double charge, and bids you rejoyce in the Lord, with an <hi>I<g ref="char:EOLhyphen"/>terum dico,</hi> Againe, I ſay rejoyce: that he may awake you from the dreames of ſecular fancies, and bring you to the joyes of Spirituall extaſies. I ſcarce remember a place in the Volume of this Book, of greater emphaſis, that doth more inſinuate into the heart of men, with a ſweeter Eccho of forcible ingemination, and patheticall inſtru<g ref="char:EOLhyphen"/>ction, then what I laſt ſpake unto, <hi>re<g ref="char:EOLhyphen"/>joyce in the Lord,</hi> and againe <hi>I ſay rejoyce.</hi>
+            </p>
+            <p>Therefore I wiſh it may have a deep impreſſion with you, and be as nailes faſtned by the maſters of aſſemblies, never to be removed and forgotten, that yet may affect it, and that it may lift
+<pb n="48" facs="tcp:121334:29"/> you up, from wordly deſires and earth<g ref="char:EOLhyphen"/>ly Cogitations, as the Spirit did <hi>Eze<g ref="char:EOLhyphen"/>kiel,</hi> when it took him by a lock of the haire, and brought him to <hi>Jeruſalem, lift you up, and bring you on to Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> the viſion of peace, the fruition of bliſſe, the new <hi>Jeruſalem,</hi> the cele<g ref="char:EOLhyphen"/>ſtiall <hi>Jeruſalem; Jeruſalem</hi> which is a<g ref="char:EOLhyphen"/>bove; the Mother of us all. Where a<g ref="char:EOLhyphen"/>mongſt other ſongs and doxologies of praiſe and thanks-giving we may re<g ref="char:EOLhyphen"/>member this, and <hi>ſing aloud upon our beds,</hi> with Patriarches and Prophets; with Apoſtles and Evangeliſts, with Martyrs and Confeſſors, with Saints and Angells, <hi>We joy in God through our Lord Jeſus Chriſt, by whom we have now received the atonement.</hi> Which the Lord Grant for Chriſt his ſake, to whom with the Father and the holy Spirit, three perſons and one God be aſcribed all Power, Majeſty, and Do<g ref="char:EOLhyphen"/>minion now and for ever, AMEN.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
